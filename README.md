@@ -1,4 +1,4 @@
-👋 Olá, eu sou o Samuel Falcão
+👋 Olá, eu sou Samuel Falcão
 Estudante de Análise e Desenvolvimento de Sistemas
 
 🧠 Sobre mim
@@ -6,7 +6,7 @@ Estudante de Análise e Desenvolvimento de Sistemas
 - 💻 Focado em desenvolvimento Backend
 - 🌱 Aprendendo constantemente Git, GitHub, Flutter e Banco de Dados
 
-### 📂 Projetos em destaque
+📂 Projetos em destaque
 [Projeto Final - Banco de Dados](https://github.com/Samuel-Falcao/Projeto-Final---Banco-de-Dados)
 
 🛠️ Tecnologias que estou aprendendo
